@@ -10,8 +10,8 @@ A further work is under pipeline to check how usage of frameworks like RAG, fine
 
 Machine used: Nvdia A6000 (instance taken from Paperspace VM)
 
-[Report Link](https://drive.google.com/file/d/1PKkLPsku66JQB5RiRav0MoZDXBO9BK13/view?usp=drive_link)
-[PPT Link](https://docs.google.com/presentation/d/1DKb2sXhlhjuSZq9vIPKq1EH4c2QNjlvd/edit?usp=drive_link&ouid=103154953792064305029&rtpof=true&sd=true)
+## [Report Link](https://drive.google.com/file/d/1PKkLPsku66JQB5RiRav0MoZDXBO9BK13/view?usp=drive_link)
+## [PPT Link](https://docs.google.com/presentation/d/1DKb2sXhlhjuSZq9vIPKq1EH4c2QNjlvd/edit?usp=drive_link&ouid=103154953792064305029&rtpof=true&sd=true)
 
 # 🔥 **MORE UPDATES COMING IN** 🔥
 (Git commit has been slowed down due to time out issues from paper space remote VM)
